@@ -1,0 +1,12 @@
+for i in range(1, 6):
+    bintang = "*" * i
+    strip = "-" * (5 - i)
+    print(bintang + strip)
+
+
+
+*----
+**---
+***--
+****-
+*****
